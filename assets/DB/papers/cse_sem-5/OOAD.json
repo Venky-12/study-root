@@ -1,0 +1,126 @@
+{
+  "id": "ppr0026",
+  "title": "OOAD",
+  "image_url": "",
+  "Description": "OOAD Multiple Choice Questions (MCQ) to practice OOAD basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr0026q001",
+      "question": "Abstraction has ______ types.",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "1"
+        },
+        {
+          "identifier": "B",
+          "Answer": "  3"
+        },
+        {
+          "identifier": "C",
+          "Answer": "4"
+        },
+        {
+          "identifier": "D",
+          "Answer": "6"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr0026q002",
+      "question": "CRC approach and noun phrase approach are used to identify …",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "classes"
+        },
+        {
+          "identifier": "B",
+          "Answer": "colaborators"
+        },
+        {
+          "identifier": "C",
+          "Answer": "use cases"
+        },
+        {
+          "identifier": "D",
+          "Answer": " object"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr0026q003",
+      "question": "Abstraction provide an operation named as …",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "encapsulation"
+        },
+        {
+          "identifier": "B",
+          "Answer": "call back"
+        },
+        {
+          "identifier": "C",
+          "Answer": " turndown"
+        },
+        {
+          "identifier": "D",
+          "Answer": "inheritance"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr0026q004",
+      "question": "To distunguish between active and non-active object which property is applied?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " abstraction "
+        },
+        {
+          "identifier": "B",
+          "Answer": "polymophism"
+        },
+        {
+          "identifier": "C",
+          "Answer": "concurrency"
+        },
+        {
+          "identifier": "D",
+          "Answer": " aggregation"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr0026q005",
+      "question": "SMI stands for",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "software maturity index"
+        },
+        {
+          "identifier": "B",
+          "Answer": "  system maturity information"
+        },
+        {
+          "identifier": "C",
+          "Answer": "software model index"
+        },
+        {
+          "identifier": "D",
+          "Answer": "None of these"
+        }
+      ],
+      "correct_answer": "A"
+    }
+  ]
+}

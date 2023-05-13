@@ -1,0 +1,126 @@
+{
+  "id": "ppr00130",
+  "title": "Dev Ops",
+  "image_url": "",
+  "Description": "Dev Ops Multiple Choice Questions (MCQ) to practice Dev Ops basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr00130q001",
+      "question": "Which statement best describes the role of Change Management within a DevOps environment? ",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "The moment an app change is asked for, the request should go to the Developers to authorise. Once authorised it goes to Operations for implementation"
+        },
+        {
+          "identifier": "B",
+          "Answer": "The moment an app change is asked for, the request should go out to everyone on theteam, no matter which IT discipline they work in."
+        },
+        {
+          "identifier": "C",
+          "Answer": "Nothing changes as a risk adverse Change Management approach is paramount to IT and business success"
+        },
+        {
+          "identifier": "D",
+          "Answer": " None of these"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr00130q002",
+      "question": "Identify the tool for DevOps?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Monit"
+        },
+        {
+          "identifier": "B",
+          "Answer": " Jenkins"
+        },
+        {
+          "identifier": "C",
+          "Answer": " Nagios"
+        },
+        {
+          "identifier": "D",
+          "Answer": "All the above"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr00130q003",
+      "question": "Identify the correct statement about DevOps?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "DevOps won’t work with Outsourced Development"
+        },
+        {
+          "identifier": "B",
+          "Answer": "DevOps and ITIL® don’t mix"
+        },
+        {
+          "identifier": "A",
+          "Answer": ".DevOps won’t work in regulated industries"
+        },
+        {
+          "identifier": "B",
+          "Answer": "None of these"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr00130q004",
+      "question": "What are the PRIMARY stakeholders for DevOps?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Testers"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Design Engineers"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Quality Assurance"
+        },
+        {
+          "identifier": "D",
+          "Answer": " All of the mentioned"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr00130q005",
+      "question": "Which of the following type of Version Control Systems",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Distributed Version Control System"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Local Version Control Systems"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Centralized Version Control Systems"
+        },
+        {
+          "identifier": "D",
+          "Answer": "All of the above"
+        }
+      ],
+      "correct_answer": "D"
+    }
+  ]
+}

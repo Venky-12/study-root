@@ -1,0 +1,118 @@
+{
+  "id": "ppr0020",
+  "title": "Design and analysis of algorithms",
+  "image_url": "",
+  "Description": "Design and analysis of algorithms Multiple Choice Questions (MCQ) to practice Design and analysis of algorithms basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr0020q001",
+      "question": "Is the space consumed by the linear search(recursive) and linear search(iterative) same?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "No, recursive algorithm consumes more space"
+        },
+        {
+          "identifier": "B",
+          "Answer": " No, recursive algorithm consumes less space"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Yes"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Nothing can be said"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr0020q002",
+      "question": "  The array is as follows: 1,2,3,6,8,10. At what time the element 6 is found? (By using linear search(recursive) algorithm)",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "4th call"
+        },
+        {
+          "identifier": "B",
+          "Answer": "3rd call"
+        },
+        {
+          "identifier": "C",
+          "Answer": "6th call"
+        },
+        {
+          "identifier": "D",
+          "Answer": "5th call"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr0020q003",
+      "question": " What is the best case runtime of linear search(recursive) algorithm on an ordered set of elements?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "O(1)"
+        },
+        {
+          "identifier": "B",
+          "Answer": " O(n)"
+        },
+        {
+          "identifier": "C",
+          "Answer": " O(logn)"
+        },
+        {
+          "identifier": "D",
+          "Answer": " O(nx)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr0020q004",
+      "question": " What is the recurrence relation for the linear search recursive algorithm?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " T(n-2)+c "
+        },
+        {
+          "identifier": "B",
+          "Answer": " 2T(n-1)+c"
+        },
+        {
+          "identifier": "C",
+          "Answer": "T(n-1)+c"
+        },
+        {
+          "identifier": "D",
+          "Answer": " T(n+1)+c"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr0020q005",
+      "question": " Insertion sort is an example of an incremental algorithm.",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " TRUE"
+        },
+        {
+          "identifier": "B",
+          "Answer": "FALSE"
+        }
+      ],
+      "correct_answer": "A"
+    }
+  ]
+}

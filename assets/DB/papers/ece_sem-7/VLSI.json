@@ -1,0 +1,126 @@
+{
+  "id": "ppr0070",
+  "title": "VLSI",
+  "image_url": "",
+  "Description": "VLSI Multiple Choice Questions (MCQ) to practice VLSI basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr0070q001",
+      "question": "VLSI technology uses ________ to form integrated circuit.",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "transistors"
+        },
+        {
+          "identifier": "B",
+          "Answer": " switches"
+        },
+        {
+          "identifier": "C",
+          "Answer": "diodes"
+        },
+        {
+          "identifier": "D",
+          "Answer": "buffers"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr0070q002",
+      "question": "Medium scale integration has ____________",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "ten logic gates"
+        },
+        {
+          "identifier": "B",
+          "Answer": "fifty logic gates"
+        },
+        {
+          "identifier": "C",
+          "Answer": "hundred logic gates"
+        },
+        {
+          "identifier": "D",
+          "Answer": "thousands logic gates"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr0070q003",
+      "question": " _________ is used to deal with effect of variation.",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "chip level technique"
+        },
+        {
+          "identifier": "B",
+          "Answer": "logic level technique"
+        },
+        {
+          "identifier": "C",
+          "Answer": "switch level technique"
+        },
+        {
+          "identifier": "D",
+          "Answer": " system level technique"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr0070q004",
+      "question": "______ architecture is used to design VLSI.",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " system on a device "
+        },
+        {
+          "identifier": "B",
+          "Answer": " single open circuit"
+        },
+        {
+          "identifier": "C",
+          "Answer": "system on a chip"
+        },
+        {
+          "identifier": "D",
+          "Answer": " system on a circuit "
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr0070q005",
+      "question": "______ is used in logic design of VLSI.",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "LIFO"
+        },
+        {
+          "identifier": "B",
+          "Answer": "  FIFO"
+        },
+        {
+          "identifier": "C",
+          "Answer": "FILO"
+        },
+        {
+          "identifier": "D",
+          "Answer": "LILO"
+        }
+      ],
+      "correct_answer": "B"
+    }
+  ]
+}

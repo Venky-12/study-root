@@ -1,0 +1,126 @@
+{
+  "id": "ppr0025",
+  "title": "Computer Networks",
+  "image_url": "",
+  "Description": "Computer Networks Multiple Choice Questions (MCQ) to practice Computer Networks basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr0025q001",
+      "question": "The IETF standards documents are called ________",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "RFC"
+        },
+        {
+          "identifier": "B",
+          "Answer": " RCF"
+        },
+        {
+          "identifier": "C",
+          "Answer": "ID"
+        },
+        {
+          "identifier": "D",
+          "Answer": "DFC"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr0025q002",
+      "question": " In the layer hierarchy as the data packet moves from the upper to the lower layers, headers are ___________",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Added"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Removed"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Rearranged"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Modified"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr0025q003",
+      "question": "The structure or format of data is called ___________",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " Syntax"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Semantics"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Struct"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Formatting"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr0025q004",
+      "question": " A _______ is the physical path over which a message travels.",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Path "
+        },
+        {
+          "identifier": "B",
+          "Answer": " Medium"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Protocol"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Route"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr0025q005",
+      "question": "  Which of this is not a network edge device?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "PC"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Smartphones"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Servers"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Switch"
+        }
+      ],
+      "correct_answer": "D"
+    }
+  ]
+}

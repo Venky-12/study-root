@@ -1,0 +1,118 @@
+{
+  "id": "ppr0088",
+  "title": "Python",
+  "image_url": "",
+  "Description": "Python Multiple Choice Questions (MCQ) to practice Python basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr0088q001",
+      "question": " Who developed Python Programming Language?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Wick van Rossum"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Rasmus Lerdorf"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Guido van Rossum"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Niene Stom"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr0088q002",
+      "question": " Which type of Programming does Python support?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " object-oriented programming"
+        },
+        {
+          "identifier": "B",
+          "Answer": "structured programming"
+        },
+        {
+          "identifier": "C",
+          "Answer": " functional programming"
+        },
+        {
+          "identifier": "D",
+          "Answer": " all of the mentioned"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr0088q003",
+      "question": "Is Python case sensitive when dealing with identifiers?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "NO"
+        },
+        {
+          "identifier": "B",
+          "Answer": "YES"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr0088q004",
+      "question": " Which of the following is the correct extension of the Python file?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " .python."
+        },
+        {
+          "identifier": "B",
+          "Answer": ".pl"
+        },
+        {
+          "identifier": "C",
+          "Answer": ".py"
+        },
+        {
+          "identifier": "D",
+          "Answer": ".p"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr0088q005",
+      "question": "All keywords in Python are in _________",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " Capitalized."
+        },
+        {
+          "identifier": "B",
+          "Answer": " lower case."
+        },
+        {
+          "identifier": "C",
+          "Answer": "UPPER CASE."
+        },
+        {
+          "identifier": "D",
+          "Answer": " None of the mentioned."
+        }
+      ],
+      "correct_answer": "D"
+    }
+  ]
+}

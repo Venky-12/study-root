@@ -1,0 +1,126 @@
+{
+  "id": "ppr0080",
+  "title": "Data Structures",
+  "image_url": "",
+  "Description": "Data Structures Multiple Choice Questions (MCQ) to practice Data Structures basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr0080q001",
+      "question": "Which of the following is a linear data structure?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Array"
+        },
+        {
+          "identifier": "B",
+          "Answer": "AVL Trees"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Binary Trees"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Graphs"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr0080q002",
+      "question": "How is the 2nd element in an array accessed based on pointer notation?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "*a + 2"
+        },
+        {
+          "identifier": "B",
+          "Answer": "*(a + 2)"
+        },
+        {
+          "identifier": "C",
+          "Answer": " *(*a + 2)"
+        },
+        {
+          "identifier": "D",
+          "Answer": "&(a + 2)"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr0080q003",
+      "question": "From following which is not the operation of data structure?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Operations that manipulate data in some way"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Operations that perform a computation"
+        },
+        {
+          "identifier": "C",
+          "Answer": " Operations that check for syntax errors"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Operations that monitor an object for the occurrence of a controlling event"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr0080q004",
+      "question": "which of the following is not a type of queue?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Priority queue."
+        },
+        {
+          "identifier": "B",
+          "Answer": "Single ended queue."
+        },
+        {
+          "identifier": "C",
+          "Answer": "Circular queue."
+        },
+        {
+          "identifier": "D",
+          "Answer": "Ordinary queue."
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr0080q005",
+      "question": "What is the disadvantage of array data structure?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "The amount of memory to be allocated should be known beforehand."
+        },
+        {
+          "identifier": "B",
+          "Answer": "Elements of an array can be accessed in constant time."
+        },
+        {
+          "identifier": "C",
+          "Answer": " Elements are stored in contiguous memory blocks."
+        },
+        {
+          "identifier": "D",
+          "Answer": "Multiple other data structures can be implemented using arrays."
+        }
+      ],
+      "correct_answer": "A"
+    }
+  ]
+}

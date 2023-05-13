@@ -1,0 +1,126 @@
+{
+  "id": "ppr0027",
+  "title": " Big Data Analytics ",
+  "image_url": "",
+  "Description": " Big Data Analytics  Multiple Choice Questions (MCQ) to practice Big Data Analytics basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr0027q001",
+      "question": "As companies move past the experimental phase with Hadoop, many cite the need for additional capabilities, including _______________",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Improved data storage and information retrieval"
+        },
+        {
+          "identifier": "B",
+          "Answer": " Improved extract, transform and load features for data integration"
+        },
+        {
+          "identifier": "C",
+          "Answer": " Improved data warehousing functionality"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Improved security, workload management, and SQL support"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr0027q002",
+      "question": "Point out the correct statement.",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Hadoop do need specialized hardware to process the data"
+        },
+        {
+          "identifier": "B",
+          "Answer": " Hadoop 2.0 allows live stream processing of real-time data"
+        },
+        {
+          "identifier": "C",
+          "Answer": "In the Hadoop programming framework output files are divided into lines or records"
+        },
+        {
+          "identifier": "D",
+          "Answer": "None of the mentioned"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr0027q003",
+      "question": "According to analysts, for what can traditional IT systems provide a foundation when they’re integrated with big data technologies like Hadoop?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Big data management and data mining"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Data warehousing and business intelligence"
+        },
+        {
+          "identifier": "C",
+          "Answer": " Collecting and storing unstructured data"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Management of Hadoop clusters"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr0027q004",
+      "question": "All of the following accurately describe Hadoop, EXCEPT ____________",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " Open-source "
+        },
+        {
+          "identifier": "B",
+          "Answer": "Real-time"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Java-based"
+        },
+        {
+          "identifier": "D",
+          "Answer": " Distributed computing approach"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr0027q005",
+      "question": "__________ has the world’s largest Hadoop cluster.",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Apple"
+        },
+        {
+          "identifier": "B",
+          "Answer": " Datamatics"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Facebook"
+        },
+        {
+          "identifier": "D",
+          "Answer": "None of these"
+        }
+      ],
+      "correct_answer": "C"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "ppr0033",
+  "title": "Internet Of Things",
+  "image_url": "",
+  "Description": "Internet Of Things Multiple Choice Questions (MCQ) to practice Internet Of Things basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr0033q001",
+      "question": " What is the full form of IoT?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Internet of Technology"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Incorporate of Things"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Internet of Things"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Incorporate of Technology"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr0033q002",
+      "question": "Who coined the term “Internet of Things”?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Kevin Aston"
+        },
+        {
+          "identifier": "B",
+          "Answer": "John Wright"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Edward Jameson"
+        },
+        {
+          "identifier": "D",
+          "Answer": " George Garton"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr0033q003",
+      "question": " Which of the following is false about IoT devices?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "IoT devices use the internet for collecting and sharing data"
+        },
+        {
+          "identifier": "B",
+          "Answer": "IoT devices need microcontrollers"
+        },
+        {
+          "identifier": "C",
+          "Answer": " IoT devices use wireless technology"
+        },
+        {
+          "identifier": "D",
+          "Answer": "IoT devices are completely safe"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr0033q004",
+      "question": "Which of the following is not an IoT platform?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Amazon Web Services"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Microsoft Azure"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Salesforce"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Flipkart"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr0033q005",
+      "question": "Which layer is used for wireless connection in IoT devices?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Application layer"
+        },
+        {
+          "identifier": "B",
+          "Answer": " Network layer"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Data link layer"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Transport layer"
+        }
+      ],
+      "correct_answer": "C"
+    }
+  ]
+}

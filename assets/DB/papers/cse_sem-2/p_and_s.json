@@ -1,0 +1,126 @@
+{
+  "id": "ppr009",
+  "title": "Probability and Statistics",
+  "image_url": "",
+  "Description": "Probability and Statistics Multiple Choice Questions (MCQ) to practice Probability and Statistics basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr009q001",
+      "question": "Which of the following mentioned standard Probability density functions is applicable to discrete Random Variables?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " Gaussian Distribution"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Poisson Distribution"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Rayleigh Distribution"
+        },
+        {
+          "identifier": "D",
+          "Answer": " Exponential Distribution"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr009q002",
+      "question": "In a Binomial Distribution, if p, q and n are probability of success, failure and number of trials respectively then variance is given by ___________",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "np"
+        },
+        {
+          "identifier": "B",
+          "Answer": " npq"
+        },
+        {
+          "identifier": "C",
+          "Answer": "np2q"
+        },
+        {
+          "identifier": "D",
+          "Answer": "npq2"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr009q003",
+      "question": "If ‘X’ is a random variable, taking values ‘x’, probability of success and failure being ‘p’ and ‘q’ respectively and ‘n’ trials being conducted, then what is the probability that ‘X’ takes values ‘x’? Use Binomial Distribution",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "P(X = x) = nCx px qx"
+        },
+        {
+          "identifier": "B",
+          "Answer": " P(X = x) = nCx px q(n-x)"
+        },
+        {
+          "identifier": "C",
+          "Answer": " P(X = x) = xCn qx p(n-x)"
+        },
+        {
+          "identifier": "D",
+          "Answer": "P(x = x) = xCn pn qx"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr009q004",
+      "question": "The mean of hypergeometric distribution is _____________",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "n*k / N-1"
+        },
+        {
+          "identifier": "B",
+          "Answer": " n*k-1 / N"
+        },
+        {
+          "identifier": "C",
+          "Answer": "n-1*k / N"
+        },
+        {
+          "identifier": "D",
+          "Answer": "n*k / N"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr009q005",
+      "question": "Consider selecting 6 cards from a pack of cards without replacement. What is the probability that 3 of the cards will be black?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "0.3320"
+        },
+        {
+          "identifier": "B",
+          "Answer": "0.3240"
+        },
+        {
+          "identifier": "C",
+          "Answer": "0.4320"
+        },
+        {
+          "identifier": "D",
+          "Answer": "0.5430"
+        }
+      ],
+      "correct_answer": "A"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "ppr0096",
+  "title": "Signals and Systems",
+  "image_url": "",
+  "Description": "Basic Signals and Systems Multiple Choice Questions (MCQ) to practice basic Signals and Systems quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr0096q001",
+      "question": "The type of systems which are characterized by input and the output quantized at certain levels are called as",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " analog"
+        },
+        {
+          "identifier": "B",
+          "Answer": "discrete"
+        },
+        {
+          "identifier": "C",
+          "Answer": "continuous"
+        },
+        {
+          "identifier": "D",
+          "Answer": "digital"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr0095q002",
+      "question": "The type of systems which are characterized by input and the output capable of taking any value in a particular set of values are called as",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "analog"
+        },
+        {
+          "identifier": "B",
+          "Answer": "discrete "
+        },
+        {
+          "identifier": "C",
+          "Answer": "digital"
+        },
+        {
+          "identifier": "D",
+          "Answer": " continuous"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr0095q003",
+      "question": "Should real time instruments like oscilloscopes be time invariant?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " Yes"
+        },
+        {
+          "identifier": "B",
+          "Answer": "No"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr0095q004",
+      "question": "All causal systems must have the component of",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "memory"
+        },
+        {
+          "identifier": "B",
+          "Answer": "time invariance"
+        },
+        {
+          "identifier": "C",
+          "Answer": "stability"
+        },
+        {
+          "identifier": "D",
+          "Answer": " linearity"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr0095q005",
+      "question": "All real time systems concerned with the concept of causality are",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "non causal"
+        },
+        {
+          "identifier": "B",
+          "Answer": "causal"
+        },
+        {
+          "identifier": "C",
+          "Answer": "neither causal nor non causal"
+        },
+        {
+          "identifier": "D",
+          "Answer": "memoryless"
+        }
+      ],
+      "correct_answer": "B"
+    }
+  ]
+}

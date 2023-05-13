@@ -1,0 +1,126 @@
+{
+  "id": "ppr097",
+  "title": "Principles Of Digital Signal Processing",
+  "image_url": "",
+  "Description": "Principles Of Digital Signal Processing Multiple Choice Questions (MCQ) to practice Principles Of  Digital Signal Processing basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr097q001",
+      "question": "The type of systems which are characterized by input and the output quantized at certain levels are called as",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " analog"
+        },
+        {
+          "identifier": "B",
+          "Answer": "discrete"
+        },
+        {
+          "identifier": "C",
+          "Answer": "continuous"
+        },
+        {
+          "identifier": "D",
+          "Answer": "digital"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr097q002",
+      "question": "The type of systems which are characterized by input and the output capable of taking any value in a particular set of values are called as",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "analog"
+        },
+        {
+          "identifier": "B",
+          "Answer": " discrete"
+        },
+        {
+          "identifier": "C",
+          "Answer": " digital"
+        },
+        {
+          "identifier": "D",
+          "Answer": " continuous"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr097q003",
+      "question": " An example of a discrete set of information/system is",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "the trajectory of the Sun"
+        },
+        {
+          "identifier": "B",
+          "Answer": "data on a CD"
+        },
+        {
+          "identifier": "C",
+          "Answer": " universe time scale"
+        },
+        {
+          "identifier": "D",
+          "Answer": "movement of water through a pipe"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr097q004",
+      "question": " A system which is linear is said to obey the rules of",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "scaling"
+        },
+        {
+          "identifier": "B",
+          "Answer": "additivity"
+        },
+        {
+          "identifier": "C",
+          "Answer": "both scaling and additivity"
+        },
+        {
+          "identifier": "D",
+          "Answer": "homogeneity"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr097q005",
+      "question": "A time invariant system is a system whose output",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " increases with a delay in input"
+        },
+        {
+          "identifier": "B",
+          "Answer": "decreases with a delay in input"
+        },
+        {
+          "identifier": "C",
+          "Answer": " remains same with a delay in input"
+        },
+        {
+          "identifier": "D",
+          "Answer": " vanishes with a delay in input"
+        }
+      ],
+      "correct_answer": "C"
+    }
+  ]
+}

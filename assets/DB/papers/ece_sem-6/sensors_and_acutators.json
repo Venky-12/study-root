@@ -1,0 +1,126 @@
+{
+  "id": "ppr0065",
+  "title": "Sensors and Acutators",
+  "image_url": "",
+  "Description": "Sensors and Acutators Multiple Choice Questions (MCQ) to practice Sensors and Acutators basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr0065q001",
+      "question": "Which of the following is correct for tactile sensors?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Touch sensitive"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Pressure sensitive"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Input voltage sensitive"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Humidity sensitive"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr0065q002",
+      "question": "Change in output of sensor with change in input is ____________",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Threashold"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Slew rate"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Sensitivity"
+        },
+        {
+          "identifier": "D",
+          "Answer": " None of the mentioned"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr0065q003",
+      "question": "Which of the following can be cause for non-zero output when zero input?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Bias"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Slew"
+        },
+        {
+          "identifier": "C",
+          "Answer": " Offset"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Offset or bias"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr0065q004",
+      "question": " Sensitivity of a sensor can be depicted by _______________",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Niquist plot"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Pole- zero plot"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Bode plot"
+        },
+        {
+          "identifier": "D",
+          "Answer": "None of the mentioned"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr0065q005",
+      "question": " Smallest change which a sensor can detect is _________",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Resolution."
+        },
+        {
+          "identifier": "B",
+          "Answer": "Accuracy"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Precision"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Scale"
+        }
+      ],
+      "correct_answer": "A"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "ppr00131",
+  "title": "Disaster Management",
+  "image_url": "",
+  "Description": "Disaster Management Multiple Choice Questions (MCQ) to practice Disaster Management basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr00131q001",
+      "question": "National Institute of Disaster Management was inaugurated on ………… ",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "September 23, 2002"
+        },
+        {
+          "identifier": "B",
+          "Answer": "August 14, 2001"
+        },
+        {
+          "identifier": "C",
+          "Answer": "October 16, 2003"
+        },
+        {
+          "identifier": "D",
+          "Answer": "August 14, 2004"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr00131q002",
+      "question": "When the situation of hazard arise?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "When there is the threat of natural calamity"
+        },
+        {
+          "identifier": "B",
+          "Answer": "When there is a threat to the consequences of the disaster"
+        },
+        {
+          "identifier": "C",
+          "Answer": "When there is a threat to property and lives from calamities"
+        },
+        {
+          "identifier": "D",
+          "Answer": "All the above"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr00131q003",
+      "question": " Seismic waves cause disaster named as ………",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Nino"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Typhoon"
+        },
+        {
+          "identifier": "A",
+          "Answer": "Tsunami"
+        },
+        {
+          "identifier": "B",
+          "Answer": "hurricane"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr00131q004",
+      "question": "Rolling effect along the earth's surface affect produces a wave of an earthquake?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "L wave"
+        },
+        {
+          "identifier": "B",
+          "Answer": "P wave"
+        },
+        {
+          "identifier": "C",
+          "Answer": "S wave"
+        },
+        {
+          "identifier": "D",
+          "Answer": " None of the above"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr00131q005",
+      "question": "In which of the following countries, hurricanes are common?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "India"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Sri Lanka"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Australia"
+        },
+        {
+          "identifier": "D",
+          "Answer": "USA"
+        }
+      ],
+      "correct_answer": "D"
+    }
+  ]
+}

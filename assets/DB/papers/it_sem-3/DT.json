@@ -1,0 +1,118 @@
+{
+  "id": "ppr00113",
+  "title": "Design Thinking",
+  "image_url": "",
+  "Description": "Design Thinking Multiple Choice Questions (MCQ) to practice Design Thinking basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr00113q001",
+      "question": "Design Thinking is:",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " Thinking about Design"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Designing ways in which people think"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Asking users to solve problems"
+        },
+        {
+          "identifier": "D",
+          "Answer": " Defining, framing, and solving problems from users ’ perspectives"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr00113q002",
+      "question": "  What are the steps of the design thinking process?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " Understand > Draw > Ideate > Create > Test"
+        },
+        {
+          "identifier": "B",
+          "Answer": " Empathise > Define > Ideate > Prototype > Test"
+        },
+        {
+          "identifier": "C",
+          "Answer": " Empathise > Design > Implement > Produce > Test"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Understand > Define > Ideate > Produce > Try"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr00113q003",
+      "question": "Design Thinking is a Linear Process True or False?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "True"
+        },
+        {
+          "identifier": "B",
+          "Answer": "False"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr00113q004",
+      "question": " A college is redesigning its website Current students are the main users of the website Which one of the below elements should definitely be on the website?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "College rules and regulations."
+        },
+        {
+          "identifier": "B",
+          "Answer": "Information on faculty members."
+        },
+        {
+          "identifier": "C",
+          "Answer": "Information about courses."
+        },
+        {
+          "identifier": "D",
+          "Answer": "Alumni details."
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr00113q005",
+      "question": "Which of the below firms is associated the most with Design Thinking?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " Ikea."
+        },
+        {
+          "identifier": "B",
+          "Answer": " Ideo."
+        },
+        {
+          "identifier": "C",
+          "Answer": " Idea."
+        },
+        {
+          "identifier": "D",
+          "Answer": "Ikei."
+        }
+      ],
+      "correct_answer": "B"
+    }
+  ]
+}

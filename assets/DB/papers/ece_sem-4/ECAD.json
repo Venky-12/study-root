@@ -1,0 +1,126 @@
+{
+  "id": "ppr055",
+  "title": "Electrical Circuits-Analysis and Design",
+  "image_url": "",
+  "Description": "Electrical Circuits-Analysis and Design Multiple Choice Questions (MCQ) to practice Electrical Circuits-Analysis and Design basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr055q001",
+      "question": "Which of the following is a defined quantity?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Pressure"
+        },
+        {
+          "identifier": "B",
+          "Answer": " Polarity"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Money"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Length"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr055q002",
+      "question": "The basic unit for luminous intensity is",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Ampere"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Candela"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Coulomb"
+        },
+        {
+          "identifier": "D",
+          "Answer": " Radian"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr055q003",
+      "question": " Charge is",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Bipolar"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Unipolar"
+        },
+        {
+          "identifier": "C",
+          "Answer": "  Tripolar"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Non – Polar in nature"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr055q004",
+      "question": " A system which is linear is said to obey the rules of",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "scaling"
+        },
+        {
+          "identifier": "B",
+          "Answer": "additivity"
+        },
+        {
+          "identifier": "C",
+          "Answer": "both scaling and additivity"
+        },
+        {
+          "identifier": "D",
+          "Answer": "homogeneity"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr055q005",
+      "question": "The energy per unit charge is",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " Voltage"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Power"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Current"
+        },
+        {
+          "identifier": "D",
+          "Answer": " Work"
+        }
+      ],
+      "correct_answer": "A"
+    }
+  ]
+}

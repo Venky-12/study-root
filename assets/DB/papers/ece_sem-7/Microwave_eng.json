@@ -1,0 +1,126 @@
+{
+  "id": "ppr068",
+  "title": "Microwave Engineering and Optical Communication",
+  "image_url": "",
+  "Description": "Microwave Engineering and Optical Communication Multiple Choice Questions (MCQ) to practice Microwave Engineering and Optical Communication basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr068q001",
+      "question": "The key difference between circuit theory and transmission line theory is:",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "circuit elements"
+        },
+        {
+          "identifier": "B",
+          "Answer": "voltage"
+        },
+        {
+          "identifier": "C",
+          "Answer": "current"
+        },
+        {
+          "identifier": "D",
+          "Answer": "electrical size"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr068q002",
+      "question": "Transmission line is a _________ parameter network",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " lumped"
+        },
+        {
+          "identifier": "B",
+          "Answer": "distributed"
+        },
+        {
+          "identifier": "C",
+          "Answer": " active"
+        },
+        {
+          "identifier": "D",
+          "Answer": " continuous"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr068q003",
+      "question": " To model a transmission line of infinitesimal length Δz, the lumped element that is not used is:",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " resistor"
+        },
+        {
+          "identifier": "B",
+          "Answer": " inductor"
+        },
+        {
+          "identifier": "C",
+          "Answer": "capacitor"
+        },
+        {
+          "identifier": "D",
+          "Answer": " transistor"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr068q004",
+      "question": " A system which is linear is said to obey the rules of",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "scaling"
+        },
+        {
+          "identifier": "B",
+          "Answer": "additivity"
+        },
+        {
+          "identifier": "C",
+          "Answer": "both scaling and additivity"
+        },
+        {
+          "identifier": "D",
+          "Answer": "homogeneity"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr068q005",
+      "question": "Characteristic impedance of a transmission line is:",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "impedance which is a constant at any point on the transmission line"
+        },
+        {
+          "identifier": "B",
+          "Answer": "impedance Z of a transmission line"
+        },
+        {
+          "identifier": "C",
+          "Answer": "reciprocal of admittance of a transmission line"
+        },
+        {
+          "identifier": "D",
+          "Answer": "none of the mentioned"
+        }
+      ],
+      "correct_answer": "A"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "ppr0057",
+  "title": "Integrated Circuits and Applications",
+  "image_url": "",
+  "Description": "Integrated Circuits and Applications Multiple Choice Questions (MCQ) to practice Integrated Circuits and Applications basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr0057q001",
+      "question": "A Differential Amplifier should have collector resistor’s value (RC1 & RC2) as",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "5kΩ, 5kΩ"
+        },
+        {
+          "identifier": "B",
+          "Answer": "5Ω, 10kΩ"
+        },
+        {
+          "identifier": "C",
+          "Answer": "5Ω, 5kΩ"
+        },
+        {
+          "identifier": "D",
+          "Answer": "5kΩ, 10kΩ"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr0057q002",
+      "question": "A Differential Amplifier amplifies",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " Input signal with higher voltage"
+        },
+        {
+          "identifier": "B",
+          "Answer": " Input voltage with smaller voltage"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Sum of the input voltage"
+        },
+        {
+          "identifier": "D",
+          "Answer": " None of the Mentioned"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr0057q003",
+      "question": "n ideal Differential Amplifier, if same signal is given to both inputs, then output will be",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Same as input"
+        },
+        {
+          "identifier": "B",
+          "Answer": " Double the input"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Not equal to zero"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Zero"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr0057q004",
+      "question": "Find IC, given VCE=0.77v, VCC=10v, VBE=0.37v and RC=2.4kΩ in Dual Input Balanced Output differential amplifier",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "0.4mA"
+        },
+        {
+          "identifier": "B",
+          "Answer": " 0.4A"
+        },
+        {
+          "identifier": "C",
+          "Answer": "4mA"
+        },
+        {
+          "identifier": "D",
+          "Answer": ".p4A"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr0057q005",
+      "question": " If output is measured between two collectors of transistors, then the Differential amplifier with two input signal is said to be configured as",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Dual Input Balanced Output"
+        },
+        {
+          "identifier": "B",
+          "Answer": " Dual Input Unbalanced Output."
+        },
+        {
+          "identifier": "C",
+          "Answer": "Single Input Balanced Output"
+        },
+        {
+          "identifier": "D",
+          "Answer": " None of the mentioned."
+        }
+      ],
+      "correct_answer": "A"
+    }
+  ]
+}

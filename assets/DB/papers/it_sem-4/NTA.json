@@ -1,0 +1,126 @@
+{
+  "id": "ppr00116",
+  "title": "Number Theory",
+  "image_url": "",
+  "Description": "Number Theory Multiple Choice Questions (MCQ) to practice Number Theory basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr00116q001",
+      "question": "What is the inverse of a if (Z,*) is a group with a*b = a+b+1 ∀ a,b ∈ Z?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "a-2"
+        },
+        {
+          "identifier": "B",
+          "Answer": "  -a-2"
+        },
+        {
+          "identifier": "C",
+          "Answer": "0"
+        },
+        {
+          "identifier": "D",
+          "Answer": " -2"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr00116q002",
+      "question": "  Which one of the statement is FALSE?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " The set of rational integers is an abelian group under addition"
+        },
+        {
+          "identifier": "B",
+          "Answer": "The set of rational numbers form an abelian group under multiplication"
+        },
+        {
+          "identifier": "C",
+          "Answer": "The set of rational numbers is an abelian group under addition"
+        },
+        {
+          "identifier": "D",
+          "Answer": "None of these"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr00116q003",
+      "question": "What is the order of the power set n?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "n2"
+        },
+        {
+          "identifier": "B",
+          "Answer": " 2n"
+        },
+        {
+          "identifier": "C",
+          "Answer": " n"
+        },
+        {
+          "identifier": "D",
+          "Answer": "None of these"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr00116q004",
+      "question": "If this is a bijective function [f: A —>] then f -1 off =?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " . IA(Identity map of the set A) "
+        },
+        {
+          "identifier": "B",
+          "Answer": " f -1"
+        },
+        {
+          "identifier": "C",
+          "Answer": " f"
+        },
+        {
+          "identifier": "D",
+          "Answer": "f o f -1"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr00116q005",
+      "question": " What is the identity element in the group (R*, *) If * is defined on R* as a * b = (ab/2)?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "1/2"
+        },
+        {
+          "identifier": "B",
+          "Answer": "1/3"
+        },
+        {
+          "identifier": "C",
+          "Answer": " 1"
+        },
+        {
+          "identifier": "D",
+          "Answer": "2"
+        }
+      ],
+      "correct_answer": "D"
+    }
+  ]
+}

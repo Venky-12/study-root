@@ -1,0 +1,118 @@
+{
+  "id": "ppr0089",
+  "title": "AC Machines",
+  "image_url": "",
+  "Description": "AC Machines Multiple Choice Questions (MCQ) to practice AC Machines basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr0089q001",
+      "question": "What is the work of the frame of dc machines?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "to reduce the voltage"
+        },
+        {
+          "identifier": "B",
+          "Answer": " to reduce the flux"
+        },
+        {
+          "identifier": "C",
+          "Answer": "to carry the flux"
+        },
+        {
+          "identifier": "D",
+          "Answer": "to carry the current"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr0089q002",
+      "question": " In large machines, the thickness is relatively larger to the diameter.",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " True"
+        },
+        {
+          "identifier": "B",
+          "Answer": "False"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr0089q003",
+      "question": "What is the formula for the depth of the yoke?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "depth of yoke = thickness/2"
+        },
+        {
+          "identifier": "B",
+          "Answer": "depth of yoke = thickness"
+        },
+        {
+          "identifier": "C",
+          "Answer": "depth of yoke = 2*thickness"
+        },
+        {
+          "identifier": "D",
+          "Answer": "depth of yoke = 3*thickness"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr0089q004",
+      "question": "Why is the length of the yoke made larger?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "to protect the armature windings"
+        },
+        {
+          "identifier": "B",
+          "Answer": "to cover the armature windings"
+        },
+        {
+          "identifier": "C",
+          "Answer": " to cover the field windings"
+        },
+        {
+          "identifier": "D",
+          "Answer": "to cover and protect the field windings"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr0089q005",
+      "question": "What is the formula for the checking of rigidity of induction machines?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " moment of inertia ≥ radius / length of stator core * 90"
+        },
+        {
+          "identifier": "B",
+          "Answer": "moment of inertia ≥ radius * length of stator core * 90"
+        },
+        {
+          "identifier": "C",
+          "Answer": "moment of inertia ≥ radius * length of stator core / 90"
+        },
+        {
+          "identifier": "D",
+          "Answer": " moment of inertia ≤ radius / length of stator core * 90"
+        }
+      ],
+      "correct_answer": "C"
+    }
+  ]
+}

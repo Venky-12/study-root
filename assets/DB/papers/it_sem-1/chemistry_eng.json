@@ -1,0 +1,116 @@
+{
+  "id": "ppr00103",
+  "title": "Chemistry",
+  "image_url": "",
+  "Description": "Basic Chemistry Multiple Choice Questions (MCQ) to practice basic Chemistry quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr00103q001",
+      "question": "The Corrosion of metals at the joints is minimized by joining dissimilar metals with adhesives due to which of the following?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "The Metals are always covered with the adhesives"
+        },
+        {
+          "identifier": "B",
+          "Answer": "The Adhesive always act as the lubricator at the joints"
+        },
+        {
+          "identifier": "C",
+          "Answer": "The direct contact of metal to metal is avoided"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Adhesives prevent exposure to an environment"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr00103q002",
+      "question": "The Adhesives joints are leak-proof for which of the following?.",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " Solids only"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Both liquids and gases "
+        },
+        {
+          "identifier": "C",
+          "Answer": "Gases only"
+        },
+        {
+          "identifier": "D",
+          "Answer": "liquids only"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr00103q003",
+      "question": "Joining labels to plastic cans or bottles is not possible if we do not use the adhesives.",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "True"
+        },
+        {
+          "identifier": "B",
+          "Answer": "False"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr00103q004",
+      "question": "If the strength of the adhesive joint is which of the following then the mechanical joint is obtained by welding or riveting",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " Less"
+        },
+        {
+          "identifier": "B",
+          "Answer": "More"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Equals to"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Very less"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr00103q005",
+      "question": "Not an example of thermosetting synthetic resins is _______",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Epoxy"
+        },
+        {
+          "identifier": "B",
+          "Answer": " Acrylic polyester"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Silicones"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Cellulose derivatives"
+        }
+      ],
+      "correct_answer": "D"
+    }
+  ]
+}

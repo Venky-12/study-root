@@ -1,0 +1,126 @@
+{
+  "id": "ppr0048",
+  "title": "Complex variables and Transforms",
+  "image_url": "",
+  "Description": "Complex variables and Transforms Multiple Choice Questions (MCQ) to practice Complex variables and Transforms basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr048q001",
+      "question": "here is a point at which a function ceases to be analytic is said to be?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Non-Singular point"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Non-regular point"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Singular point"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Regular point"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr048q002",
+      "question": "What is the polar form of a complex number?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " r(secθ + ιcosecθ )"
+        },
+        {
+          "identifier": "B",
+          "Answer": "r ( tanθ + ιcotθ )"
+        },
+        {
+          "identifier": "C",
+          "Answer": " r (sinθ + ιcosθ)"
+        },
+        {
+          "identifier": "D",
+          "Answer": "r(cosθ + ιsinθ )"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr048q003",
+      "question": "Which block of the discrete time systems requires memory?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Signal Multiplier"
+        },
+        {
+          "identifier": "B",
+          "Answer": " Unit Advance"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Unit Delay"
+        },
+        {
+          "identifier": "D",
+          "Answer": " Adder"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr048q004",
+      "question": "Which one result is obtained by the addition of a step?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " Ramp Function shifted by an amount equal to step"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Step Function shifted by an amount equal to ramp"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Step function of zero slope"
+        },
+        {
+          "identifier": "D",
+          "Answer": " Ramp function of zero slope"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr048q005",
+      "question": "Which one belongs to the category of non-recursive systems?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Non-causal FIR Systems"
+        },
+        {
+          "identifier": "B",
+          "Answer": " Causal FIR Systems"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Non-causal IIR Systems"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Causal IIR Systems"
+        }
+      ],
+      "correct_answer": "B"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": "ppr0016",
+  "title": "Java",
+  "image_url": "",
+  "Description": "Java Multiple Choice Questions (MCQ) to practice Java basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr0016q001",
+      "question": "Number of primitive data types in Java are?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " 6"
+        },
+        {
+          "identifier": "B",
+          "Answer": "7"
+        },
+        {
+          "identifier": "C",
+          "Answer": "8"
+        },
+        {
+          "identifier": "D",
+          "Answer": "9"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr0016q002",
+      "question": "What is the size of float and double in java?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "32 to 64"
+        },
+        {
+          "identifier": "B",
+          "Answer": " 32 to 32"
+        },
+        {
+          "identifier": "C",
+          "Answer": "64 to 64"
+        },
+        {
+          "identifier": "D",
+          "Answer": "64 to 32"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr0016q003",
+      "question": "Automatic type conversion is possible in which of the possible cases?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "byte to int"
+        },
+        {
+          "identifier": "B",
+          "Answer": "int to long"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr0016q004",
+      "question": " Which component is used to compile, debug and execute the java programs?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " JRE"
+        },
+        {
+          "identifier": "B",
+          "Answer": " JIT"
+        },
+        {
+          "identifier": "C",
+          "Answer": "JDK."
+        },
+        {
+          "identifier": "D",
+          "Answer": " JVM."
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr0016q005",
+      "question": "Which of these cannot be used for a variable name in Java?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " identifier & keyword."
+        },
+        {
+          "identifier": "B",
+          "Answer": " identifier."
+        },
+        {
+          "identifier": "C",
+          "Answer": "keyword"
+        },
+        {
+          "identifier": "D",
+          "Answer": "none of the mentioned."
+        }
+      ],
+      "correct_answer": "C"
+    }
+  ]
+}

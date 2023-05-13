@@ -1,0 +1,126 @@
+{
+  "id": "ppr0013",
+  "title": "DBMS",
+  "image_url": "",
+  "Description": "DBMS Multiple Choice Questions (MCQ) to practice DBMS basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr0013q001",
+      "question": " What is the full form of DBMS?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Data of Binary Management System"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Database Management System"
+        },
+        {
+          "identifier": "C",
+          "Answer": " Database Management Service"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Data Backup Management System"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr0013q002",
+      "question": " What is a database?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Organized collection of information that cannot be accessed, updated, and managed"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Collection of data or information without organizing"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Organized collection of data or information that can be accessed, updated, and managed"
+        },
+        {
+          "identifier": "D",
+          "Answer": " Organized collection of data that cannot be updated"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr0013q003",
+      "question": "What is DBMS?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "DBMS is a collection of queries"
+        },
+        {
+          "identifier": "B",
+          "Answer": "DBMS is a high-level language"
+        },
+        {
+          "identifier": "C",
+          "Answer": "DBMS is a high-level language"
+        },
+        {
+          "identifier": "D",
+          "Answer": "DBMS stores, modifies and retrieves data"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr0013q004",
+      "question": "Who created the first DBMS?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Image oriented data."
+        },
+        {
+          "identifier": "B",
+          "Answer": "Text, files containing data."
+        },
+        {
+          "identifier": "C",
+          "Answer": "Data in the form of audio or video."
+        },
+        {
+          "identifier": "D",
+          "Answer": "All of the above."
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr0013q005",
+      "question": "In which of the following formats data is stored in the database management system?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " Image."
+        },
+        {
+          "identifier": "B",
+          "Answer": "Text."
+        },
+        {
+          "identifier": "C",
+          "Answer": "Table."
+        },
+        {
+          "identifier": "D",
+          "Answer": "Graph."
+        }
+      ],
+      "correct_answer": "C"
+    }
+  ]
+}

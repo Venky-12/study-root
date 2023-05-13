@@ -1,0 +1,126 @@
+{
+  "id": "ppr001",
+  "title": "Algebra and Calculus",
+  "image_url": "",
+  "Description": "Basic Algebra & Calculus Multiple Choice Questions (MCQ) to practice Algebra & Calculus basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr001q001",
+      "question": "If f(x) is differentiable on interval I and ∃ α > 0, such that |f'(x)| ≤ α on I, then f(x) is",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "continuous but not uniformly continuous on I"
+        },
+        {
+          "identifier": "B",
+          "Answer": "uniformly continuous but not continuous on I"
+        },
+        {
+          "identifier": "C",
+          "Answer": "uniformly continuous but not differentiable on I"
+        },
+        {
+          "identifier": "D",
+          "Answer": "continuous, uniformly continuous and differentiable on 1"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr002q002",
+      "question": "If y = cos (x2), then what is the derivative of y with respect to x?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "sin (x2)"
+        },
+        {
+          "identifier": "B",
+          "Answer": "−sin x2"
+        },
+        {
+          "identifier": "C",
+          "Answer": "2x sin (x2)"
+        },
+        {
+          "identifier": "D",
+          "Answer": "−2x sin (x2)"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr003q003",
+      "question": "If the curve ay + x2 = 7 and x3 = y, cut orthogonally at (1, 1), then the value of a is:",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "1"
+        },
+        {
+          "identifier": "B",
+          "Answer": "0"
+        },
+        {
+          "identifier": "C",
+          "Answer": "6"
+        },
+        {
+          "identifier": "D",
+          "Answer": "-6"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr004q004",
+      "question": "The equation of the tangent to the curve y = x3 at (1, 1) :",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "x - 10y + 50 = 0"
+        },
+        {
+          "identifier": "B",
+          "Answer": "3x - y - 2 = 0"
+        },
+        {
+          "identifier": "C",
+          "Answer": "x + 3y - 4 = 0"
+        },
+        {
+          "identifier": "D",
+          "Answer": "x + 2y - 7 = 0"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr005q005",
+      "question": "If y = xx, what is dy/dx at x = 1 equal to",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "0"
+        },
+        {
+          "identifier": "B",
+          "Answer": "1"
+        },
+        {
+          "identifier": "C",
+          "Answer": "-1"
+        },
+        {
+          "identifier": "D",
+          "Answer": "2"
+        }
+      ],
+      "correct_answer": "B"
+    }
+  ]
+}

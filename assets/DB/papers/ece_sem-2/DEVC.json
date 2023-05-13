@@ -1,0 +1,116 @@
+{
+  "id": "ppr045",
+  "title": "Differential Equations and Vector calculus",
+  "image_url": "",
+  "Description": "Basic Chemistry Multiple Choice Questions (MCQ) to practice basic Chemistry quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr045q001",
+      "question": "What is the divergence of the vector field f⃗ =3x2i^+5xy2j^+xyz3k^ at the point (1, 2, 3).",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " 80"
+        },
+        {
+          "identifier": "B",
+          "Answer": "89"
+        },
+        {
+          "identifier": "C",
+          "Answer": "124"
+        },
+        {
+          "identifier": "D",
+          "Answer": "100"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr045q002",
+      "question": "Divergence of f⃗ (x,y,z)=exyi^−cosyj^+(sinz)2k",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "yexy+ cos⁡y + 2 sinz.cosz"
+        },
+        {
+          "identifier": "B",
+          "Answer": " yexy– sin⁡y + 2 sinz.cosz"
+        },
+        {
+          "identifier": "C",
+          "Answer": "0"
+        },
+        {
+          "identifier": "D",
+          "Answer": " yexy+ sin⁡y + 2 sinz.cosz"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr045q003",
+      "question": "Chose the curl of f⃗ (x,y,z)=x2i^+xyzj^–zk^ at the point (2, 1, -2).",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "2i^+2k^"
+        },
+        {
+          "identifier": "B",
+          "Answer": " −2i^–2k^"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr045q004",
+      "question": " Divergence of f⃗ (x,y,z)=(xi^+yj^+zk^)(x2+y2+z2)3/2,(x,y,z)≠(0,0,0).",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "0"
+        },
+        {
+          "identifier": "B",
+          "Answer": "1"
+        },
+        {
+          "identifier": "C",
+          "Answer": "2"
+        },
+        {
+          "identifier": "D",
+          "Answer": "3"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr045q005",
+      "question": " Find the divergence of this given vector r⃗ =12x6y6i⃗ +3x3y3zj⃗ +3x2yz2k⃗ ",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "12x5y6+2x3yz+6x2yz"
+        },
+        {
+          "identifier": "B",
+          "Answer": "72x5y6+2x3yz+3x2yz"
+        },
+        {
+          "identifier": "C",
+          "Answer": "72x5y6+2x3yz+6x2yz"
+        },
+        {
+          "identifier": "D",
+          "Answer": "6x5y6+2x3yz+6x2yz"
+        }
+      ],
+      "correct_answer": "C"
+    }
+  ]
+}

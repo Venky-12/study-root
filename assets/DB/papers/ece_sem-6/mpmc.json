@@ -1,0 +1,126 @@
+{
+  "id": "ppr0061",
+  "title": "Microprocessors and Microcontrollers",
+  "image_url": "",
+  "Description": "Microprocessors and Microcontrollers Multiple Choice Questions (MCQ) to practice Microprocessors and Microcontrollers basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr0061q001",
+      "question": " What is Microprocessor?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " A multipurpose PLD that accepts binary data as input"
+        },
+        {
+          "identifier": "B",
+          "Answer": "A multipurpose PLD that accepts an integer as input"
+        },
+        {
+          "identifier": "C",
+          "Answer": "A multipurpose PLD that accepts whole numbers as input"
+        },
+        {
+          "identifier": "D",
+          "Answer": "A multipurpose PLD that accepts prime numbers as input"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr0061q002",
+      "question": "  Which of the following is a type of microprocessor?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " CISC"
+        },
+        {
+          "identifier": "B",
+          "Answer": "RISC"
+        },
+        {
+          "identifier": "C",
+          "Answer": "EPIC"
+        },
+        {
+          "identifier": "D",
+          "Answer": "All of the mentioned"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr0061q003",
+      "question": "CPU scheduling is the basis of ___________",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "multiprogramming operating systems"
+        },
+        {
+          "identifier": "B",
+          "Answer": " larger memory sized systems"
+        },
+        {
+          "identifier": "C",
+          "Answer": "multiprocessor systems"
+        },
+        {
+          "identifier": "D",
+          "Answer": "  none of the mentioned"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr0061q004",
+      "question": "Which of the following technology was used by Intel to design its first 8-bit microprocessor??",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "NMOS"
+        },
+        {
+          "identifier": "B",
+          "Answer": " HMOS"
+        },
+        {
+          "identifier": "C",
+          "Answer": "PMOS"
+        },
+        {
+          "identifier": "D",
+          "Answer": "TTL"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr0061q005",
+      "question": " What is the word length of an 8-bit microprocessor?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " 8-bits – 64 bits"
+        },
+        {
+          "identifier": "B",
+          "Answer": "4-bits – 32 bits"
+        },
+        {
+          "identifier": "C",
+          "Answer": "8-bits – 16 bits"
+        },
+        {
+          "identifier": "D",
+          "Answer": "8-bits – 32 bits"
+        }
+      ],
+      "correct_answer": "A"
+    }
+  ]
+}

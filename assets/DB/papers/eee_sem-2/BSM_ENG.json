@@ -1,0 +1,125 @@
+{
+  "id": "ppr0077",
+  "title": "Basic Civil and Mechanical Engineering",
+  "image_url": "",
+  "Description": "Basic Civil and Mechanical Engineering Multiple Choice Questions (MCQ) to practice Basic Civil and Mechanical Engineering quiz answers",
+  "time_seconds": 900,
+
+  "questions": [
+    {
+      "id": "ppr0077q001",
+      "question": "Which of the following statements define Environmental Engineering?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Creation of procedures and infrastructure for water delivery"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Waste disposal"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Pollution control of various kinds"
+        },
+        {
+          "identifier": "D",
+          "Answer": " All of the mentioned"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr0077q002",
+      "question": "Among the given engineers, who is known as the first female environmental engineer?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Ellen Swallow Richards"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Miss Ellen Henrietta"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Catherine Anselm Gleason"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Elsie Eaves"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr0077q003",
+      "question": " Which of the following is/are types of pollution that affect the environment?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Air pollution"
+        },
+        {
+          "identifier": "B",
+          "Answer": " Water pollution"
+        },
+        {
+          "identifier": "C",
+          "Answer": " Land pollution"
+        },
+        {
+          "identifier": "D",
+          "Answer": " All of the mentioned"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr0077q004",
+      "question": " Which of the following statements define environmental chemistry?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "study of chemical reactions that occur in water, air, land, biological habitats, and human activities"
+        },
+        {
+          "identifier": "B",
+          "Answer": "study of chemical reactions that occur in water, air, land, and biological habitats only"
+        },
+        {
+          "identifier": "C",
+          "Answer": "study of chemical reactions that occur in water, air, and land only"
+        },
+        {
+          "identifier": "D",
+          "Answer": "None of the above"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr0077q005",
+      "question": "Why carbon dioxide is called a greenhouse gas?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " Because they absorb heat"
+        },
+        {
+          "identifier": "B",
+          "Answer": " Because they absorb moisture"
+        },
+        {
+          "identifier": "C",
+          "Answer": " Because they absorb oxygen"
+        },
+        {
+          "identifier": "D",
+          "Answer": " Because they absorb hydrogen"
+        }
+      ],
+      "correct_answer": "A"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "ppr00118",
+  "title": "Software Engineering",
+  "image_url": "",
+  "Description": "Software Engineering Multiple Choice Questions (MCQ) to practice Software Engineering basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr00118q001",
+      "question": " Who is the father of Software Engineering?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Margaret Hamilton"
+        },
+        {
+          "identifier": "B",
+          "Answer": " Watts S. Humphrey"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Alan Turing"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Boris Beizer"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr00118q002",
+      "question": " ____________ is a software development activity that is not a part of software processes.",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Validation"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Specification"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Development"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Dependence  "
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr00118q003",
+      "question": "Why do bugs and failures occur in software?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Because of Developers"
+        },
+        {
+          "identifier": "B",
+          "Answer": " Because of companies"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Because of both companies and Developers"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Integers"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr00118q004",
+      "question": " __________________ suits the Manifesto for Agile Software Development.",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Customer collaboration"
+        },
+        {
+          "identifier": "B",
+          "Answer": " Individuals and interactions"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Working software"
+        },
+        {
+          "identifier": "D",
+          "Answer": "All of the mentioned"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr00118q005",
+      "question": " Faster delivery is possible with CBSE.",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " TRUE"
+        },
+        {
+          "identifier": "B",
+          "Answer": "FALSE"
+        }
+      ],
+      "correct_answer": "A"
+    }
+  ]
+}

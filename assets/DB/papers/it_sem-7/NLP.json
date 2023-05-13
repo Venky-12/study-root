@@ -1,0 +1,118 @@
+{
+  "id": "ppr00128",
+  "title": "Natural Language Processing",
+  "image_url": "",
+  "Description": "Natural Language Processing Multiple Choice Questions (MCQ) to practice Natural Language Processing basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr00128q001",
+      "question": "What is the field of Natural Language Processing (NLP)?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Computer Science"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Artificial Intelligence"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Linguistics"
+        },
+        {
+          "identifier": "D",
+          "Answer": "All of the mentioned"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr00128q002",
+      "question": "What is the main challenge/s of NLP?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Handling Ambiguity of Sentences"
+        },
+        {
+          "identifier": "B",
+          "Answer": " Handling Tokenization"
+        },
+        {
+          "identifier": "C",
+          "Answer": " Handling POS-Tagging"
+        },
+        {
+          "identifier": "D",
+          "Answer": "All of the mentioned"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr00128q003",
+      "question": "Modern NLP algorithms are based on machine learning, especially statistical machine learning.",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "True"
+        },
+        {
+          "identifier": "B",
+          "Answer": "False"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr00128q004",
+      "question": "Choose form the following areas where NLP can be useful.",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Automatic Text Summarization"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Automatic Question-Answering Systems"
+        },
+        {
+          "identifier": "C",
+          "Answer": " Information Retrieval"
+        },
+        {
+          "identifier": "D",
+          "Answer": " All of the mentioned"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr00128q005",
+      "question": "Which of the following includes major tasks of NLP?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Automatic Summarization"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Discourse Analysis"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Machine Translation"
+        },
+        {
+          "identifier": "D",
+          "Answer": "All of the mentioned"
+        }
+      ],
+      "correct_answer": "D"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "ppr00115",
+  "title": "FLAT",
+  "image_url": "",
+  "Description": "FLAT Multiple Choice Questions (MCQ) to practice FLAT basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr00115q001",
+      "question": " The minimum number of states required to recognize an octal number divisible by 3 are/is",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "1"
+        },
+        {
+          "identifier": "B",
+          "Answer": "  3"
+        },
+        {
+          "identifier": "C",
+          "Answer": "4"
+        },
+        {
+          "identifier": "D",
+          "Answer": "6"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr00115q002",
+      "question": " Assume the R is a relation on a set A, aRb is partially ordered such that a and b are _____________",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " reflexive"
+        },
+        {
+          "identifier": "B",
+          "Answer": "transitive"
+        },
+        {
+          "identifier": "C",
+          "Answer": "symmetric"
+        },
+        {
+          "identifier": "D",
+          "Answer": "reflexive and transitive"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr00115q003",
+      "question": "The non- Kleene Star operation accepts the following string of finite length over set A = {0,1} | where string s contains even number of 0 and 1",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "01,0011,010101"
+        },
+        {
+          "identifier": "B",
+          "Answer": "0011,11001100"
+        },
+        {
+          "identifier": "C",
+          "Answer": "ε,0011,11001100"
+        },
+        {
+          "identifier": "D",
+          "Answer": "ε,0011,11001100"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr00115q004",
+      "question": "Which of the following is not a part of 5-tuple finite automata?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " Input alphabet "
+        },
+        {
+          "identifier": "B",
+          "Answer": " Transition function"
+        },
+        {
+          "identifier": "C",
+          "Answer": " Initial State"
+        },
+        {
+          "identifier": "D",
+          "Answer": " Output Alphabet"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr00115q005",
+      "question": "For the following change of state in FA, which of the following codes is an incorrect option?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "δ (m, 1) = n"
+        },
+        {
+          "identifier": "B",
+          "Answer": " δ (0, n) = m"
+        },
+        {
+          "identifier": "C",
+          "Answer": " δ (m,0) = ε"
+        },
+        {
+          "identifier": "D",
+          "Answer": "None of these"
+        }
+      ],
+      "correct_answer": "B"
+    }
+  ]
+}

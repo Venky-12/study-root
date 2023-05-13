@@ -1,0 +1,118 @@
+{
+  "id": "ppr053",
+  "title": "Electromagnetic Waves and Transmission Lines",
+  "image_url": "",
+  "Description": "Electromagnetic Waves and Transmission Lines Multiple Choice Questions (MCQ) to practice Electromagnetic Waves and Transmission Lines basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr053q001",
+      "question": " Identify which of the following is not a transmission line?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Telephone lines"
+        },
+        {
+          "identifier": "B",
+          "Answer": " Power transmission"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Underground cables"
+        },
+        {
+          "identifier": "D",
+          "Answer": " Cavity resonators"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr053q002",
+      "question": "The open wire transmission line consists of",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " Conductor"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Dielectric"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Both conductor and dielectric"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Either conductor or dielectric"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr053q003",
+      "question": " Telephone lines and power lines are open wire transmission lines. State true/false.",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "True"
+        },
+        {
+          "identifier": "B",
+          "Answer": "False"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr053q004",
+      "question": " The cable transmission line consists of",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " Conductors"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Insulators"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Insulated conductors"
+        },
+        {
+          "identifier": "D",
+          "Answer": " Insulated conductors with dielectric"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr053q005",
+      "question": " The coaxial cable are used in",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Telephone cables transmission"
+        },
+        {
+          "identifier": "B",
+          "Answer": " Power transmission"
+        },
+        {
+          "identifier": "C",
+          "Answer": " Television signal transmission"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Short wave transmission"
+        }
+      ],
+      "correct_answer": "C"
+    }
+  ]
+}

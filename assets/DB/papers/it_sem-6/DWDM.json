@@ -1,0 +1,126 @@
+{
+  "id": "ppr00125",
+  "title": "DATA WAREHOUSE & DATA MINING",
+  "image_url": "",
+  "Description": "DATA WAREHOUSE & DATA MINING Multiple Choice Questions (MCQ) to practice DATA WAREHOUSE & DATA MINING basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr00125q001",
+      "question": "Which of the following refers to the problem of finding abstracted patterns (or structures) in the unlabeled data",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Supervised learning"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Unsupervised learning"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Hybrid learning"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Reinforcement learning"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr00125q002",
+      "question": " Which one of the following refers to querying the unstructured textual data?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Information access"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Information update"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Information retrieval"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Information manipulation"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr00125q003",
+      "question": " Which of the following can be considered as the correct process of Data Mining?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Infrastructure, Exploration, Analysis, Interpretation, Exploitation"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Exploration, Infrastructure, Analysis, Interpretation, Exploitation"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Exploration, Infrastructure, Interpretation, Analysis, Exploitation"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Exploration, Infrastructure, Analysis, Exploitation, Interpretation"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr00125q004",
+      "question": "Which of the following is an essential process in which the intelligent methods are applied to extract data patterns?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " Warehousing "
+        },
+        {
+          "identifier": "B",
+          "Answer": " Data Mining"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Text Mining"
+        },
+        {
+          "identifier": "D",
+          "Answer": " Data Selection"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr00125q005",
+      "question": " What is KDD in data mining?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Knowledge Discovery Database"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Knowledge Discovery Data"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Knowledge Data definition"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Knowledge data house"
+        }
+      ],
+      "correct_answer": "A"
+    }
+  ]
+}

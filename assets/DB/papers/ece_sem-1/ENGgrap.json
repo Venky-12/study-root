@@ -1,0 +1,125 @@
+{
+  "id": "ppr0041",
+  "title": "Engineering Graphics",
+  "image_url": "",
+  "Description": "Engineering Graphics and Engineering Multiple Choice Questions (MCQ) to practice Engineering Graphics quiz answers",
+  "time_seconds": 900,
+
+  "questions": [
+    {
+      "id": "ppr0041q001",
+      "question": "The hardness of a pencil lead ___ as numeral letter H increases",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "remains same"
+        },
+        {
+          "identifier": "B",
+          "Answer": "increases"
+        },
+        {
+          "identifier": "C",
+          "Answer": "decreases"
+        },
+        {
+          "identifier": "D",
+          "Answer": " remains same"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr0041q002",
+      "question": "The size of A0 drawing sheet in mm is?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "267 x 420"
+        },
+        {
+          "identifier": "B",
+          "Answer": "420 x 594"
+        },
+        {
+          "identifier": "C",
+          "Answer": "594 x 841"
+        },
+        {
+          "identifier": "D",
+          "Answer": "841 x 1189"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr0041q003",
+      "question": " Length of scale = RF x ____",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "reduced length"
+        },
+        {
+          "identifier": "B",
+          "Answer": "actual length"
+        },
+        {
+          "identifier": "C",
+          "Answer": " half the length"
+        },
+        {
+          "identifier": "D",
+          "Answer": "double the length"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr0041q004",
+      "question": "The Following is not a major greenhouse gas?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Nitrous oxide"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Methane"
+        },
+        {
+          "identifier": "C",
+          "Answer": " Carbon dioxide"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Calcium Carbonate"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr0041q005",
+      "question": "Paralysis is caused by disorders connected with",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " Liver"
+        },
+        {
+          "identifier": "B",
+          "Answer": " Heart"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Kidneys"
+        },
+        {
+          "identifier": "D",
+          "Answer": " Brain"
+        }
+      ],
+      "correct_answer": "D"
+    }
+  ]
+}

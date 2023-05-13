@@ -1,0 +1,126 @@
+{
+  "id": "ppr0029",
+  "title": " Cryptography & Network Security ",
+  "image_url": "",
+  "Description": " Cryptography & Network Security  Multiple Choice Questions (MCQ) to practice Cryptography & Network Security basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr0029q001",
+      "question": "Divide (HAPPY)26 by (SAD)26. We get quotient –",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "KD"
+        },
+        {
+          "identifier": "B",
+          "Answer": " LD"
+        },
+        {
+          "identifier": "C",
+          "Answer": " JC"
+        },
+        {
+          "identifier": "D",
+          "Answer": "MC"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr0029q002",
+      "question": "The estimated computations required to crack a password of 6 characters from the 26 letter alphabet is-",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "308915776"
+        },
+        {
+          "identifier": "B",
+          "Answer": "11881376"
+        },
+        {
+          "identifier": "C",
+          "Answer": "456976"
+        },
+        {
+          "identifier": "D",
+          "Answer": "8031810176"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr0029q003",
+      "question": "Reduce the following big-O natations:O [ n! + n50 ] =",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "O [ n! + n50 ]."
+        },
+        {
+          "identifier": "B",
+          "Answer": "O [ n! ]."
+        },
+        {
+          "identifier": "C",
+          "Answer": "O [ n50]."
+        },
+        {
+          "identifier": "D",
+          "Answer": "None of the Mentioned"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr0029q004",
+      "question": "In base 26, multiplication of YES by NO gives –",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " THWOE "
+        },
+        {
+          "identifier": "B",
+          "Answer": "MPAHT"
+        },
+        {
+          "identifier": "C",
+          "Answer": "MPJNS"
+        },
+        {
+          "identifier": "D",
+          "Answer": " THWAE"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr0029q005",
+      "question": "Dividing (11001001) by (100111) gives remainder –",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "11"
+        },
+        {
+          "identifier": "B",
+          "Answer": "111"
+        },
+        {
+          "identifier": "C",
+          "Answer": "101"
+        },
+        {
+          "identifier": "D",
+          "Answer": "110"
+        }
+      ],
+      "correct_answer": "D"
+    }
+  ]
+}

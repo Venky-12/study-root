@@ -1,0 +1,126 @@
+{
+  "id": "ppr069",
+  "title": "Management Science",
+  "image_url": "",
+  "Description": "Management Science Multiple Choice Questions (MCQ) to practice Management Science basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr069q001",
+      "question": ".  ___________ is concerned with the acquisition, financing, and management of assets with some overall goal in mind.",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " Financial management"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Profit maximization"
+        },
+        {
+          "identifier": "C",
+          "Answer": " Agency theory"
+        },
+        {
+          "identifier": "D",
+          "Answer": " Social responsibility"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr069q002",
+      "question": "  Having some overall goal in mind, financial management is concerned with:",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Acquisition of assets"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Financing of assets"
+        },
+        {
+          "identifier": "C",
+          "Answer": " Management of assets"
+        },
+        {
+          "identifier": "D",
+          "Answer": "All of them"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr069q003",
+      "question": " The investment decision is the most important of the firm’s three major decisions, when it comes to:",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Value creation"
+        },
+        {
+          "identifier": "B",
+          "Answer": " Value addition"
+        },
+        {
+          "identifier": "C",
+          "Answer": " Value proposition"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Value deletion"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr069q004",
+      "question": "   Profit maximization is the maximizing a firm’s Earning:",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Before Tax"
+        },
+        {
+          "identifier": "B",
+          "Answer": "After Tax"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Both A and B"
+        },
+        {
+          "identifier": "D",
+          "Answer": "none"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr069q005",
+      "question": " Stakeholders include:",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Stakeholders"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Creditors and customs"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Employees and suppliers"
+        },
+        {
+          "identifier": "D",
+          "Answer": "All of Them"
+        }
+      ],
+      "correct_answer": "D"
+    }
+  ]
+}

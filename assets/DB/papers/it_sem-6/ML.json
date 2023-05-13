@@ -1,0 +1,118 @@
+{
+  "id": "ppr00123",
+  "title": "Machine Learning",
+  "image_url": "",
+  "Description": "Machine Learning Multiple Choice Questions (MCQ) to practice Machine Learning basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr00123q001",
+      "question": "What is Machine learning?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "The autonomous acquisition of knowledge through the use of computer programs"
+        },
+        {
+          "identifier": "B",
+          "Answer": "The autonomous acquisition of knowledge through the use of manual programs"
+        },
+        {
+          "identifier": "C",
+          "Answer": "The selective acquisition of knowledge through the use of computer programs"
+        },
+        {
+          "identifier": "D",
+          "Answer": "The selective acquisition of knowledge through the use of manual programs"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr00123q002",
+      "question": " Which of the factors affect the performance of learner system does not include?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Representation scheme used"
+        },
+        {
+          "identifier": "B",
+          "Answer": " Training scenario"
+        },
+        {
+          "identifier": "C",
+          "Answer": " Type of feedback"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Good data structures"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr00123q003",
+      "question": "Different learning methods does not include?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Memorization"
+        },
+        {
+          "identifier": "B",
+          "Answer": "  Introduction"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr00123q004",
+      "question": "A model of language consists of the categories which does not include?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Language units"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Role structure of units"
+        },
+        {
+          "identifier": "C",
+          "Answer": "System constraints"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Structural units"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr00123q005",
+      "question": "In language understanding, the levels of knowledge that does not include?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Phonological"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Syntactic"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Empirical"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Logical"
+        }
+      ],
+      "correct_answer": "C"
+    }
+  ]
+}

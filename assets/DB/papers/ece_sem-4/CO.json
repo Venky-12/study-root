@@ -1,0 +1,126 @@
+{
+  "id": "ppr0057",
+  "title": "Computer Organization",
+  "image_url": "",
+  "Description": "Computer Organization Multiple Choice Questions (MCQ) to practice Computer Organization basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr0057q001",
+      "question": " In Reverse Polish notation, expression A*B+C*D is written as",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "AB*CD*+"
+        },
+        {
+          "identifier": "B",
+          "Answer": "A*BCD*+"
+        },
+        {
+          "identifier": "C",
+          "Answer": " AB*CD+*"
+        },
+        {
+          "identifier": "D",
+          "Answer": "A*B*CD+"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr0057q002",
+      "question": " SIMD represents an organization that _________.",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Refers to a computer system capable of processing several programs at the same time"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Represents organization of single computer containing a control unit, processor unit and a memory unit"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Includes many processing units under the supervision of a common control unit"
+        },
+        {
+          "identifier": "D",
+          "Answer": " None of the above"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr0057q003",
+      "question": "Floating point representation is used to store",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Boolean values"
+        },
+        {
+          "identifier": "B",
+          "Answer": " Whole numbers"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Real integers"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Integers"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr0057q004",
+      "question": "Which of the following is not a weighted code?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " Decimal Number system"
+        },
+        {
+          "identifier": "B",
+          "Answer": " Excess 3-cod"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Binary number System"
+        },
+        {
+          "identifier": "D",
+          "Answer": "None of these"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr0057q005",
+      "question": " If memory access takes 20 ns with cache and 110 ns without it, then the ratio (cache uses a 10 ns memory) is",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " 93%"
+        },
+        {
+          "identifier": "B",
+          "Answer": "90%"
+        },
+        {
+          "identifier": "C",
+          "Answer": "88%"
+        },
+        {
+          "identifier": "D",
+          "Answer": "  87%"
+        }
+      ],
+      "correct_answer": "B"
+    }
+  ]
+}

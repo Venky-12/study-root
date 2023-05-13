@@ -1,0 +1,126 @@
+{
+  "id": "ppr0042",
+  "title": "BEEE",
+  "image_url": "",
+  "Description": "BEEE Multiple Choice Questions (MCQ) to practice BEEE basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr042q001",
+      "question": "Which of the following elements of electrical engineering cannot be analyzed using Ohm’s law?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Capacitors"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Inductors"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Transistors"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Resistance"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr042q002",
+      "question": "What is constant for a charged spherical shell according to basic electrical energy?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Electrical potential outside the spherical shell"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Electrical potential inside the spherical shell"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Electrical field outside the spherical shell"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Electrical field inside the spherical shell"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr042q003",
+      "question": "Where does electro-static shielding occur in a charged spherical shell?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "When electrical potential outside spherical shell is zero"
+        },
+        {
+          "identifier": "B",
+          "Answer": "When electrical potential inside the spherical shell is zero"
+        },
+        {
+          "identifier": "C",
+          "Answer": "When electrical field outside the spherical shell"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Electrical field inside the spherical shell"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr042q004",
+      "question": "Which of the following is a correct representation of peak value in an AC Circuit?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "RMS value/Peak factor"
+        },
+        {
+          "identifier": "B",
+          "Answer": "RMS value*Form factor"
+        },
+        {
+          "identifier": "C",
+          "Answer": "RMS value/Form factor"
+        },
+        {
+          "identifier": "D",
+          "Answer": "RMS value*Peak factor"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr042q005",
+      "question": "Which of the following according to fundaments of electrical energy is correct about alternating current?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Frequency is zero"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Magnitude changes with time"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Can be transported to larger distances with less loss in power"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Flows in both directions"
+        }
+      ],
+      "correct_answer": "A"
+    }
+  ]
+}

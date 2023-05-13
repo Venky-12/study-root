@@ -1,0 +1,126 @@
+{
+  "id": "ppr0071",
+  "title": "Disaster Management",
+  "image_url": "",
+  "Description": "Disaster Management Multiple Choice Questions (MCQ) to practice Disaster Management basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr0071q001",
+      "question": "The National Institute of Disaster Management (NIDM) was established on ____________ .",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "September 23, 2002"
+        },
+        {
+          "identifier": "B",
+          "Answer": "August 14, 2001"
+        },
+        {
+          "identifier": "C",
+          "Answer": "October 16, 2003"
+        },
+        {
+          "identifier": "D",
+          "Answer": "August 14, 2004"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr0071q002",
+      "question": "In which city the National Institute of Disaster Management is situated?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Kolkata"
+        },
+        {
+          "identifier": "B",
+          "Answer": "New Delhi"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Hyderabad"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Manipur"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr0071q003",
+      "question": "Which wave of an earthquake is produced by a rolling effect along the earth’s surface?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "L wave"
+        },
+        {
+          "identifier": "B",
+          "Answer": "P wave"
+        },
+        {
+          "identifier": "C",
+          "Answer": "S wave"
+        },
+        {
+          "identifier": "D",
+          "Answer": "None of the above"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr0071q004",
+      "question": "Which of the following are the common factors of wildfire hazards?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Volcanic eruption"
+        },
+        {
+          "identifier": "B",
+          "Answer": "El-Nino"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Volcanic Lightning and thundering"
+        },
+        {
+          "identifier": "D",
+          "Answer": "All of the above"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr0071q005",
+      "question": "India’s total cyclone-prone area is ……….",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "15%"
+        },
+        {
+          "identifier": "B",
+          "Answer": "10%"
+        },
+        {
+          "identifier": "C",
+          "Answer": "8%"
+        },
+        {
+          "identifier": "D",
+          "Answer": "20%"
+        }
+      ],
+      "correct_answer": "C"
+    }
+  ]
+}

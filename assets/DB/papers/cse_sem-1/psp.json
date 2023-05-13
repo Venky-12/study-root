@@ -1,0 +1,118 @@
+{
+  "id": "ppr007",
+  "title": "PSP",
+  "image_url": "",
+  "Description": "Basic psp Multiple Choice Questions (MCQ) to practice basic psp quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr007q001",
+      "question": "Which of the components of central processing unit(CPU)",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Arithmetic logic unit ,Mouse"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Arithmetic logic unit,Control unit"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Arithmetic logic unit, Integrated circuits"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Control unit,Monitor"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr007q002",
+      "question": "In which of the following form data is stored in computer",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " Decimal "
+        },
+        {
+          "identifier": "B",
+          "Answer": "Binary "
+        },
+        {
+          "identifier": "C",
+          "Answer": "Hexadecimal"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Octal"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr007q003",
+      "question": "1 Mega Byte is equal to",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "1024 Bytes"
+        },
+        {
+          "identifier": "B",
+          "Answer": "1024 Kilo Bytes"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr007q004",
+      "question": "Which committee standardize c programming language",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "W3C"
+        },
+        {
+          "identifier": "B",
+          "Answer": "ISO"
+        },
+        {
+          "identifier": "C",
+          "Answer": "ANSI"
+        },
+        {
+          "identifier": "D",
+          "Answer": "TRAI"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr007q005",
+      "question": "Which Level Language Is Assembly Language?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " High-Level Programming Language"
+        },
+        {
+          "identifier": "B",
+          "Answer": " Medium-Level Programming Language"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Low-Level Programming Language"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Machine Language"
+        }
+      ],
+      "correct_answer": "c"
+    }
+  ]
+}

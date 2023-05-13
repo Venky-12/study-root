@@ -1,0 +1,126 @@
+{
+  "id": "ppr0049",
+  "title": "Digital Electronics and Logic Design",
+  "image_url": "",
+  "Description": "Digital Electronics and Logic Design Multiple Choice Questions (MCQ) to practice Digital Electronics and Logic Design basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr0049q001",
+      "question": "One operation that is not given by magnitude comparator is",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "equal"
+        },
+        {
+          "identifier": "B",
+          "Answer": "less"
+        },
+        {
+          "identifier": "C",
+          "Answer": "greater"
+        },
+        {
+          "identifier": "D",
+          "Answer": "addition"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr0049q002",
+      "question": " Adding 1001 and 0010 gives an output of",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "1011"
+        },
+        {
+          "identifier": "B",
+          "Answer": "1111"
+        },
+        {
+          "identifier": "C",
+          "Answer": "0"
+        },
+        {
+          "identifier": "D",
+          "Answer": "1010"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr0049q003",
+      "question": "The subtracting of two binary numbers can be done by taking the 2's complement of the subtrahend and adding it to the",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "binary numbers"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Minuend"
+        },
+        {
+          "identifier": "C",
+          "Answer": "0"
+        },
+        {
+          "identifier": "D",
+          "Answer": "-1"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr0049q004",
+      "question": " Integrated Circuit (IC) type 7483 consists of",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "1bit IC."
+        },
+        {
+          "identifier": "B",
+          "Answer": "2bits IC."
+        },
+        {
+          "identifier": "C",
+          "Answer": "3bits IC."
+        },
+        {
+          "identifier": "D",
+          "Answer": "4bits IC."
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr0049q005",
+      "question": " Which of the following expression is true if the output is equal to zero?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "A>B."
+        },
+        {
+          "identifier": "B",
+          "Answer": "A."
+        },
+        {
+          "identifier": "C",
+          "Answer": "A=B."
+        },
+        {
+          "identifier": "D",
+          "Answer": "A==B."
+        }
+      ],
+      "correct_answer": "B"
+    }
+  ]
+}

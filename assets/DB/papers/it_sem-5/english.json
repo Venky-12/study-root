@@ -1,0 +1,118 @@
+{
+  "id": "ppr00121",
+  "title": "Communicative English",
+  "image_url": "",
+  "Description": "Communicative English Multiple Choice Questions (MCQ) to practice Communicative English basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr00121q001",
+      "question": "Rot becomes _____ and pen becomes ______.",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "roted, pened"
+        },
+        {
+          "identifier": "B",
+          "Answer": " rotting, pened"
+        },
+        {
+          "identifier": "C",
+          "Answer": "rotting, penned"
+        },
+        {
+          "identifier": "D",
+          "Answer": " rotted, penned"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr00121q002",
+      "question": ". When a word ends with “y”, and the letter before “y” is a consonant; for the various other forms of the word, “y” is replaced with:",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " e"
+        },
+        {
+          "identifier": "B",
+          "Answer": " i"
+        },
+        {
+          "identifier": "C",
+          "Answer": " ie"
+        },
+        {
+          "identifier": "D",
+          "Answer": "eng"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr00121q003",
+      "question": "The vowel u must always follow the consonant q.",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " True"
+        },
+        {
+          "identifier": "B",
+          "Answer": " False"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr00121q004",
+      "question": "Choose the correct statement:",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "He comes always late for practice"
+        },
+        {
+          "identifier": "B",
+          "Answer": "He always comes late for practice."
+        },
+        {
+          "identifier": "C",
+          "Answer": " He comes late always for practice."
+        },
+        {
+          "identifier": "D",
+          "Answer": "He comes late for practice always."
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr00121q005",
+      "question": "Choose the correct statement:",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "The teacher told me to go to my house at once."
+        },
+        {
+          "identifier": "B",
+          "Answer": "The teacher told me to go to my home at once."
+        },
+        {
+          "identifier": "C",
+          "Answer": " The teacher told me to go to my building at once."
+        },
+        {
+          "identifier": "D",
+          "Answer": "The teacher told me to go to my place at once."
+        }
+      ],
+      "correct_answer": "B"
+    }
+  ]
+}

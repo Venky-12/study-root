@@ -1,0 +1,118 @@
+{
+  "id": "ppr00119",
+  "title": "Artificial intelligence",
+  "image_url": "",
+  "Description": "Artificial intelligence Multiple Choice Questions (MCQ) to practice Artificial intelligence basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr00119q001",
+      "question": " Artificial Intelligence is about_____.",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Playing a game on Computer"
+        },
+        {
+          "identifier": "B",
+          "Answer": " Making a machine Intelligent"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Programming on Machine with your Own Intelligence"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Putting your intelligence in Machine"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr00119q002",
+      "question": "Which agent deals with the happy and unhappy state?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Utility-based agent"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Model-based agent"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Goal-based Agent"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Learning Agent"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr00119q003",
+      "question": "Rational agent always does the right things.",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "True"
+        },
+        {
+          "identifier": "B",
+          "Answer": "False"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr00119q004",
+      "question": "Which term describes the common-sense of the judgmental part of problem-solving?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " Values-based "
+        },
+        {
+          "identifier": "B",
+          "Answer": "Critical"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Analytical"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Heuristic"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr00119q005",
+      "question": " In the Wumpus World Problem, the reason for the uncertainty is that the agent's sensor gives only__",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "Full & Global information"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Partial & Global Information"
+        },
+        {
+          "identifier": "C",
+          "Answer": "Full & local information"
+        },
+        {
+          "identifier": "D",
+          "Answer": "Partial & local Information"
+        }
+      ],
+      "correct_answer": "D"
+    }
+  ]
+}

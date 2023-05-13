@@ -1,0 +1,126 @@
+{
+  "id": "ppr0032",
+  "title": "Introduction of Micro-Controllers",
+  "image_url": "",
+  "Description": "Introduction of Micro-Controllers Multiple Choice Questions (MCQ) to practice Introduction of Micro-Controllers basic quiz answers",
+  "time_seconds": 900,
+  "questions": [
+    {
+      "id": "ppr0032q001",
+      "question": " Which of the following buses are present in a microcontroller for transferring data from one place to another?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " data bus only"
+        },
+        {
+          "identifier": "B",
+          "Answer": "data bus, address bus"
+        },
+        {
+          "identifier": "C",
+          "Answer": "address bus only"
+        },
+        {
+          "identifier": "D",
+          "Answer": "address bus, data bus, control bus"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr0032q002",
+      "question": "Which of the following file extension that is loaded in a microcontroller for executing any instruction?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": ".c"
+        },
+        {
+          "identifier": "B",
+          "Answer": " .txt"
+        },
+        {
+          "identifier": "C",
+          "Answer": ".hex"
+        },
+        {
+          "identifier": "D",
+          "Answer": ".doc"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr0032q003",
+      "question": " Which of the following microcontroller doesn’t match with its architecture below?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "ARM7 – Von Neumann"
+        },
+        {
+          "identifier": "B",
+          "Answer": "Microchip PIC – Harvard"
+        },
+        {
+          "identifier": "C",
+          "Answer": "ARM9 – Harvard"
+        },
+        {
+          "identifier": "D",
+          "Answer": "MSP430 – Harvard"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr0032q004",
+      "question": "When the microcontroller executes some arithmetic operations, then the flag bits of which of the following register are affected?",
+
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": "DPTR "
+        },
+        {
+          "identifier": "B",
+          "Answer": "PSW"
+        },
+        {
+          "identifier": "C",
+          "Answer": " PC"
+        },
+        {
+          "identifier": "D",
+          "Answer": "SP"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr0032q005",
+      "question": " Which of the following devices are specifically being used for converting serial to parallel and from parallel to serial respectively?",
+      "answers": [
+        {
+          "identifier": "A",
+          "Answer": " microcontroller"
+        },
+        {
+          "identifier": "B",
+          "Answer": "timers"
+        },
+        {
+          "identifier": "C",
+          "Answer": "counters"
+        },
+        {
+          "identifier": "D",
+          "Answer": "registers"
+        }
+      ],
+      "correct_answer": "D"
+    }
+  ]
+}
